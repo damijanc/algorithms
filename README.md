@@ -1,4 +1,4 @@
 Algorithms
 =======
 
-Sandbox project for testing speed of bitwise operators
+Sandbox project for testing of various algorithms
