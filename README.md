@@ -3,6 +3,14 @@ Algorithms
 
 Sandbox for various algorithms, scripts, procedures ...
 
+Folder structure
+------------------------
+bitwise - bitwise operators
+Levenshtein - Levenshtein distance implementations
+mysql - usefull procedures for MySql
+sort - sorting algorithm implementations
+
+
 Online resources:
 ------------------------------------
 Wikipedia

@@ -56,7 +56,7 @@ function run_java() {
 		echo $file
 		echo '---------------'
 		cd $folder
-		eval $JAVAC $file
+		$JAVAC $file
 		eval $TIME -f $TIME_OPTIONS $JAVA $f
 		cd - > /dev/null
 	done
