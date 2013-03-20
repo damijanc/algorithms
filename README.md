@@ -5,16 +5,12 @@ Sandbox for various algorithms, scripts, procedures ...
 
 Folder structure
 ------------------------
-bitwise - bitwise operators
-Levenshtein - Levenshtein distance implementations
-mysql - usefull procedures for MySql
-sort - sorting algorithm implementations
+- algorithms folder for various algorithms implementations
+- utilities folder for scripts, procedures and other utilities
 
 
 Online resources:
 ------------------------------------
-Wikipedia
-http://en.wikibooks.org/wiki/Algorithm_implementation
+Blog:
 
-Roseta Code
-http://rosettacode.org/wiki/Main_Page
+http://blog.cavar.si
