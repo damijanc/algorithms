@@ -1,13 +1,8 @@
-Algorithms
-=======
-
-Sandbox for various algorithms, scripts, procedures ...
-
 Folder structure
 ------------------------
-bitwise - bitwise operators
-levenshtein - Levenshtein distance implementations
-sort - sorting algorithm implementations
+- bitwise - bitwise operators
+- levenshtein - Levenshtein distance implementations
+- sort - sorting algorithm implementations
 
 
 Online resources:
