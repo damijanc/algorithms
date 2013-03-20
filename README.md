@@ -1,4 +1,4 @@
 Algorithms
 =======
 
-Sandbox project for testing of various algorithms
+Sandbox for various algorithms, scripts, procedures ...
